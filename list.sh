@@ -4,3 +4,8 @@ med
 peter
 ruth
 ib
+osman
+whala
+snake
+lion
+goat
